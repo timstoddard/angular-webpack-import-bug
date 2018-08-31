@@ -11,7 +11,7 @@ export class AppComponent {
 
   constructor() {
     // COMMENT OUT THE FOLLOWING LINE TO RESOLVE THE COMPILATION ERROR
-    // const a: string = 2;
+    const a: string = 2;
     foo();
   }
 }
